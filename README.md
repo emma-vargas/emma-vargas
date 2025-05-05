@@ -24,5 +24,6 @@ A full stack web app to track event RSVP responses, built with React, Express, a
 ## ⚡ Fun Facts
 
 📚 I joined a book club to stay on top of my reading habits (and because accountability > good intentions)
+
 🧩 DIY projects and roadtrips are my jam  
 ☕ Always down to swap coffee recommendations!
