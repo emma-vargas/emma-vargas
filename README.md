@@ -18,7 +18,7 @@ A full stack web app to track event RSVP responses, built with React, Express, a
 
 ## 📫 Get in Touch
 
-🔗 [LinkedIn](https://www.linkedin.com/in/emmavargas/)  
+🔗 LinkedIn: [Linkedin.com/in/emmavargas](https://www.linkedin.com/in/emmavargas/)  
 📧 Email: evargas8112@gmail.com  
 
 ## ⚡ Fun Facts
